@@ -1,0 +1,123 @@
+body {
+    background-color: #929292;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    padding-top: .5em;
+    width: 77%;
+}
+
+code {
+    display: inline-block;
+    padding-left: 1.5em;
+}
+
+html {
+    background-image: url('images/bg.png');
+    background-repeat: repeat;
+    cursor: url('images/cursor.png'), auto;
+}
+
+img {
+    max-width: 100%;
+}
+
+p {
+    padding-left: 1em;
+    max-width: 50%;
+}
+
+.initial-border {
+    border-color: darkgray;
+    border-style: solid;
+    border-width: .15em;
+    margin: 0em;
+    padding: 0em;
+}
+
+.inner-border {
+    border-color: darkgray;
+    border-style: solid;
+    border-width: .15em;
+    margin: 0em;
+    padding: 0em;
+}
+
+.menu {
+    background-color: #bdbdbd;
+    border-bottom: solid .15em;
+    border-color: darkgrey;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    text-indent: .75em;
+    margin: 0em;
+    padding: 0em;
+}
+
+.menu-item {
+    color: black;
+    display: inline-block;
+    margin: 0em;
+    padding: 0em;
+    text-decoration: none;
+}
+
+.menu-link {
+    color: black;
+    display: inline-block;
+    margin: 0em;
+    margin-left: -1.75em;
+    margin-right: 0.75em;
+    padding: 0em;
+    text-decoration: none;
+}
+
+.menu-link:first-letter {
+    text-decoration: underline;
+}
+
+.outside-border {
+    border-color: gray;
+    border-style: solid;
+    border-width: .3em;
+    margin: 0em;
+    padding: 0em;
+}
+
+.title-bar {
+    background-image: url('images/titlebar.png');
+    background-repeat: repeat-x;
+    border-bottom: solid .15em;
+    border-color: darkgrey;
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.75em;
+    font-weight: bold;
+    text-align: center;
+    margin: 0em;
+    padding: 0em;
+}
+
+.title-bar-close {
+    display: inline;
+    float: left;
+    margin: 0em;
+    padding: 0em;
+}
+
+.title-bar-right {
+    display: block;
+    float: right;
+    margin: 0em;
+    padding: 0em;
+}
+
+.window {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    margin: 1em;
+    padding: 0em;
+    padding-right: 1em;
+}

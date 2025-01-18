@@ -1,0 +1,12 @@
+---
+.title = "Projects",
+.date = @date("1990-01-01T00:00:00"),
+.author = "Gota7",
+.layout = "main.shtml",
+.alternatives = [],
+.draft = false,
+---
+
+# Tech Projects
+
+I should really put some stuff here :p

@@ -1,0 +1,53 @@
+---
+.title = "Music",
+.date = @date("1990-01-01T00:00:00"),
+.author = "Gota7",
+.layout = "main.shtml",
+.alternatives = [],
+.draft = false,
+---
+
+# Music
+
+I am currently writing some songs and figuring out the best way to record and master them myself... Coming sometime!
+
+```=html
+<figure>
+    <img src="TyeDieGota.png" width="512">
+    <figcaption><em>Art by ArcticaTheFox</em></figcaption>
+</figure>
+```
+
+Ok fine, here's an acoustic recording of a song:
+
+## Perfect Angels
+
+```=html
+<audio controls>
+    <source src="PerfectAngels.mp3" type="audio/mpeg">
+</audio>
+```
+
+```
+They don't care
+Of the color of your hair
+Or where you're from
+Know not if you are scum
+
+Don't know where you've been
+The secrets under your skin
+Anything spoken be true
+For they do care about you
+
+To them we are
+Perfect angels
+Nothing more nothing less
+Perfect angels
+And they couldn't be further off
+
+To them we are
+Perfect angels
+Nothing more nothing less
+Perfect angels
+And they couldn't be further off
+```

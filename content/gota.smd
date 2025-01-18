@@ -1,0 +1,60 @@
+---
+.title = "Who Am I?",
+.date = @date("1990-01-01T00:00:00"),
+.author = "Gota7",
+.layout = "main.shtml",
+.alternatives = [],
+.draft = false,
+---
+
+# About Me
+
+```=html
+<figure>
+    <img src="gotaCute.png" width="300">
+    <figcaption><em>Art by Sporknoggin</em></figcaption>
+</figure>
+```
+
+Hello, this is Gota7! I have an interest in all things low-level!
+The closer to the hardware a program is, the better.
+I currently work in embedded-systems programming.
+When I'm not writing code I'm probably playing guitar, watching videos, or maybe drawing (though I rarely do that lol).
+
+Professionally, I have a Bachelor's in Computer Science and have primarily worked as a Software Engineer.
+
+I started programming in my own free time by learning Javascript on Khan Academy in 6th grade.
+After that, I started playing around on my own with the Processing language.
+I took an online course to learn C#.
+During middle school, I got familiar with the Python language.
+I also created [Nitro Studio](https://gota7.github.io/NitroTools/), a sound editor for Nintendo DS sound archives, using C#.
+
+In high school, I learned Java (which I didn't really use for anything), but learned C in my own time (which was more useful).
+I later learned C++ and that became my main programming language.
+I mostly worked on modding Super Mario 64 DS as well as making tutorials for it on my YouTube channel.
+
+In college, I became more fascinated with low-level programming.
+I joined decompilation projects that used Ghidra and other reverse engineering tools
+to try and recreate C++ code that when compiled would match GameCube game binaries 1 to 1.
+I then started a game dev project in C++ for PC and 3ds for a 3d platformer that is still in progress today.
+
+I started work developing my own programming language named [Asylum](https://asylum-lang-foundation.github.io/Manual/index.html)
+using my own higher-level library for LLVM named [WARD](https://github.com/Gota7/WARD-Sharp),
+but kept scrapping progress because I was unhappy with its design and thought things could be better.
+In fact, the Asylum manual linked I have plenty of problems wrong with its design and wanted to start from scratch again.
+However, I was introduced to the zig programming language!
+It is the language that I have been dreaming of before I even knew it.
+It had all the design goals of my language, but done more concisely and clearer than my vision.
+The only catch was that the language had less features, but I found this to be a blessing rather than a curse.
+Sometimes less is more.
+
+Now I mainly program in zig and work on open-source zig libraries, as well as developing my own game projects and software.
+
+## Contacts
+
+* Discord: Gota7
+* Telegram: [@GotaSeven](https://t.me/GotaSeven)
+* Github: [Gota7](https://github.com/Gota7)
+* Youtube: [Gota7](https://www.youtube.com/c/Gota7)
+
+Please give context to your message and do not just say "hi" or I will not respond.

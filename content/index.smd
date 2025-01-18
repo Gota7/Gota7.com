@@ -1,0 +1,21 @@
+---
+.title = "Home",
+.date = @date("1990-01-01T00:00:00"),
+.author = "Gota7",
+.layout = "main.shtml",
+.alternatives = [],
+.draft = false,
+---
+
+# Hello, This Is Gota7!
+
+```=html
+<figure>
+    <img src="gotaBlob.png" width="250">
+    <figcaption><em>Art by Icarus</em></figcaption>
+</figure>
+```
+
+Enjoy my website ^_^
+
+If you're curious about it, you can find the source code for it [here](https://github.com/Gota7/Gota7.com).
