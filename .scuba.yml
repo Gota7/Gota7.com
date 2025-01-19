@@ -1,0 +1,8 @@
+image: gota7/gota7-website:latest
+aliases:
+  serve:
+    script:
+      - zig build serve
+  website:
+    script:
+      - zig build website
