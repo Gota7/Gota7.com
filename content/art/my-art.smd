@@ -1,0 +1,14 @@
+---
+.title = "My Art",
+.date = @date("1990-01-01T00:00:00"),
+.author = "Gota7",
+.layout = "main.shtml",
+.alternatives = [],
+.draft = false,
+---
+
+# My Art Galleries
+
+| Personal Art | Given Art | [Art Fight 2022](art-fight-2022) | Art Fight 2021 | Art Fight 2020 | Sketches |
+|--------------|-----------|---------------|---------------|---------------|----------|
+| Random art I made for myself with no real reason. | Art I made for others. | Art I made for Art Fight 2022. | Art I made for Art Fight 2021. | Art I made for Art Fight 2020. | Doodles I made here and there. |

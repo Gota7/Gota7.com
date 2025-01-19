@@ -13,7 +13,7 @@ I am currently writing some songs and figuring out the best way to record and ma
 
 ```=html
 <figure>
-    <img src="TyeDieGota.png" width="512">
+    <img src="/images/music/TyeDieGota.png" width="512">
     <figcaption><em>Art by ArcticaTheFox</em></figcaption>
 </figure>
 ```
@@ -24,7 +24,7 @@ Ok fine, here's an acoustic recording of a song:
 
 ```=html
 <audio controls>
-    <source src="PerfectAngels.mp3" type="audio/mpeg">
+    <source src="/music/PerfectAngelsAcoustic.mp3" type="audio/mpeg">
 </audio>
 ```
 

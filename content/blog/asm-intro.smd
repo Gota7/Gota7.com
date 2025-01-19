@@ -1,0 +1,35 @@
+---
+.title = "An Intro To Assembly Modding (And Why ASM Hack Is A Bad Name)",
+.date = @date("1990-01-01T00:00:00"),
+.author = "Gota7",
+.layout = "main.shtml",
+.alternatives = [],
+.draft = false,
+---
+
+# An Intro To Assembly Modding 
+## And Why ASM Hack Is A Bad Name
+
+Back when I was into game modding, typically the most common thing would be to edit levels.
+Sometimes people would edit the music or the models or some other asset of the game.
+But there was always something that was powerful but mysterious: "The ASM Hack".
+
+Typically, "ASM hacks" or "assembly hacking" refers to *any* code modification to the game being modded.
+This is a bit of a misleading term, as it implies that in order to do these code modifications it must be learned how to write assembly code.
+While this can be true in some cases, as writing assembly can be very helpful to accomplish certain tasks for a code mod,
+it's more of an exception rather than a rule.
+Sure some game like Super Mario Bros 3 or Super Mario World will have code hacks done in assembly. They were written in it.
+But systems from the N64 and onward are not having games written in pure assembly.
+It's possible, but barely anyone does it.
+And even if a game is programmed in assembly, doing code modifications should still be possible with C or Zig or any other low-level language really,
+as long as it can compile to the desired system.
+
+## How Does A Code Hack Work
+
+Now code may seem like a weird intangible thing.
+After all, when you run an EXE you don't tend to think about how the code is stored.
+You just double click the EXE, it runs, you're happy (usually).
+
+However, code, even when compiled, is data just like anything else.
+It is tangible.
+You can modify it.

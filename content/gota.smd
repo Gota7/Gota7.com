@@ -11,7 +11,7 @@
 
 ```=html
 <figure>
-    <img src="gotaCute.png" width="300">
+    <img src="/images/gota/gotaCute.png" width="300">
     <figcaption><em>Art by Sporknoggin</em></figcaption>
 </figure>
 ```
@@ -50,11 +50,13 @@ Sometimes less is more.
 
 Now I mainly program in zig and work on open-source zig libraries, as well as developing my own game projects and software.
 
+[]($section.id('contacts'))
 ## Contacts
 
 * Discord: Gota7
 * Telegram: [@GotaSeven](https://t.me/GotaSeven)
 * Github: [Gota7](https://github.com/Gota7)
 * Youtube: [Gota7](https://www.youtube.com/c/Gota7)
+* Art Fight: [~Gota7](https://artfight.net/~Gota7)
 
 Please give context to your message and do not just say "hi" or I will not respond.

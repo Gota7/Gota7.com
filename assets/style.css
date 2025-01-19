@@ -28,6 +28,21 @@ p {
     max-width: 50%;
 }
 
+table {
+    padding-left: 1em;
+}
+
+td {
+   text-align: center;
+}
+
+th {
+    font-size: large;
+    padding-left: .5em;
+    padding-right: .5em;
+    text-align: center;
+}
+
 .initial-border {
     border-color: darkgray;
     border-style: solid;

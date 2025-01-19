@@ -11,7 +11,7 @@
 
 ```=html
 <figure>
-    <img src="gotaBlob.png" width="250">
+    <img src="/images/home/gotaBlob.png" width="250">
     <figcaption><em>Art by Icarus</em></figcaption>
 </figure>
 ```

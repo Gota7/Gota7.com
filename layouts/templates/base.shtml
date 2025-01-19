@@ -3,6 +3,7 @@
   <title id="title"><super></title>
   <head>
     <link rel="stylesheet" type="text/css" href="$site.asset('style.css').link()">
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
   </head>
   <body>
     <div class="initial-border">
